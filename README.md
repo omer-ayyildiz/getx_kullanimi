@@ -1,0 +1,2 @@
+# getx_kullanimi
+basit_get_x_kullanimi
